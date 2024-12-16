@@ -12,10 +12,10 @@ Measure various environmental factors more preciously and use the Internet of Th
 - **Central Controller**: Raspberry Pi 4 connected to a router, serving as the system's hub.
 - **Sensors and Actuators**:
   - ESP8266 (Wemos D1 R2 board)
-  - SG90 Servo Motor
+  - mini LoRa
+  - Arduino Nano
   - LED Light Strip
   - OLED Display
-  - 
   - Soil Condition Sensor
   - DHT Sensor(Temperature and Humidity Sensor)
   - PIR Motion Sensor
